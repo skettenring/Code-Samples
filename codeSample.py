@@ -25,7 +25,7 @@ def isPrime(n):
 
     return True
 
-#Test efficiency of sum of primes
+#Test efficiency of primes functions
 def testingPrimes(n):
 
     start = time.clock() 
